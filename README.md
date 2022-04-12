@@ -1,3 +1,5 @@
+**This is an unmaintained, private fork*.*
+
 # Writing Letters in Markdown Using Pandoc and KOMA-Script
 
 This template extends [Pandoc]'s original LaTeX-template by parsing variables and putting them into the appropriate [KOMA-script] `scrlttr2` variables.
