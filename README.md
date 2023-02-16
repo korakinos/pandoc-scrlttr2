@@ -1,4 +1,4 @@
-**This is an unmaintained, private fork*.*
+**This is an unmaintained, private fork**.
 
 # Writing Letters in Markdown Using Pandoc and KOMA-Script
 
